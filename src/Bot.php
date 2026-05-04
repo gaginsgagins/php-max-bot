@@ -394,6 +394,7 @@ class Bot
             [['type' => $type, 'payload' => ['token' => $token]]],
             $extra['attachments'] ?? []
         );
+        sleep(2);
         return self::sendMessageToUser($userId, $caption, $extra);
     }
 
