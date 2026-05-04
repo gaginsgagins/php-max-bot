@@ -373,6 +373,7 @@ class Bot
             [['type' => $type, 'payload' => ['token' => $token]]],
             $extra['attachments'] ?? []
         );
+        sleep(2);
         return self::sendMessageToChat($chatId, $caption, $extra);
     }
 
