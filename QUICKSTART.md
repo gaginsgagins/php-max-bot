@@ -7,7 +7,7 @@
 ### 1. Через Composer (рекомендуется)
 
 ```bash
-composer  require gagins/phpmaxbot
+composer require gagins/phpmaxbot
 ```
 
 ### 2. Вручную
