@@ -1,7 +1,5 @@
 # PHPMaxBot
 
-![Привлекательное изображение для репозитория](https://github.com/gaginsgagins/php-max-bot/blob/master/assets/repo-preview-image.png)
-
 PHP библиотека для создания ботов в мессенджере MAX. Поддерживает полное API MAX messenger и предоставляет удобный интерфейс для разработки ботов.
 
 ## Особенности
